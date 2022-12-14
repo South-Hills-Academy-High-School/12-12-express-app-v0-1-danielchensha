@@ -33,18 +33,18 @@ color: transparent;
 
 }
 
-.dch{
+
+.container-snow{
   min-height: 50px;
   padding-top: 20px;
   text-align: center;
-    background-image: url('https://cdn.dribbble.com/users/823181/screenshots/3894893/scenery_illustration.png');
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
-    clip-path: circle(30px);
-  color: transparent;
-
-  }
+  background-image: url('https://cdn.dribbble.com/users/823181/screenshots/3894893/scenery_illustration.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  clip-path: url('https://upload.wikimedia.org/wikipedia/commons/0/0f/Scandinavian_Snowflake.svg');
+color: transparent;
+}
 
 .circle {
   height: 100px;
